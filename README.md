@@ -1,2 +1,2 @@
-# MCP_Local
-Repositorio para guardar los MCP Locales
+# Proyecto
+Este proyecto tiene como objetivo principal desarrollar una aplicación que facilite la gestión de tareas diarias de manera eficiente.
